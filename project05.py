@@ -1,5 +1,5 @@
 nilai = [{'nim' : 'A01', 'nama' : 'Agustina', 'mid' : 50, 'uas' : 80},  #ini list data
- 	     {'nim' : 'A02', 'nama' : 'Budi', 'mid' : 40, 'uas' : 90},      #ini list data
+ 	       {'nim' : 'A02', 'nama' : 'Budi', 'mid' : 40, 'uas' : 90},      #ini list data
          {'nim' : 'A03', 'nama' : 'Chicha', 'mid' : 100, 'uas' : 50},   #ini list data
          {'nim' : 'A04', 'nama' : 'Donna', 'mid' : 20, 'uas' : 100},    #ini list data
          {'nim' : 'A05', 'nama' : 'Fatimah', 'mid' : 70, 'uas' : 100}]  #ini list data
